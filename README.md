@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # market-fe-final
 
 > market final edition
@@ -19,3 +20,4 @@ npm run build --report
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+>>>>>>> 7e95ca55b4fda5493e6d64ec5c5f16229e9109d3
